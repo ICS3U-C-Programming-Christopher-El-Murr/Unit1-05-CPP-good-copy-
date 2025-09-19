@@ -1,1 +1,2 @@
 # Unit1-05-CPP-good-copy-
+[![Mr Coxall's Super Linter](https://github.com/ICS3U-C-Programming-Christopher-El-Murr/Unit1-05-CPP-good-copy/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-C-Programming-Christopher-El-Murr/Unit1-05-CPP-good-copy/actions/)
